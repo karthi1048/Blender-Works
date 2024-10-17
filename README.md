@@ -1,15 +1,9 @@
-## Welcome to this repository 👋
+# Welcome to My Blender-Works Repository 👋
 
-This repo acts as common source which lists all of mine Blender projects available in my github account.
+This repository serves as a central hub for all my Blender projects hosted on GitHub. Here, you'll find links to two repositories which showcase my work, featuring rendered images and abstract looping animations.
 
-It showcases some of my works as rendered images & short abstract looping animations.
+Feel free to explore the links below to dive into different aspects of my projects:
 
-You can redirect from here to my sub repositories using the links below.
-
-[Blender-renders](https://github.com/karthi1048/Blender-Renders.git) :
-*This repo contains the rendered images of my blender projects either png or jpeg formats.*
-
-**Render Engines** - Eevee & Cycles
-
-[Blender-files](https://github.com/karthi1048/Blender-files.git) :
-*This repo contains .blend files of my blender projects.*
+- [**Blender Renders**](https://github.com/karthi1048/Blender-Renders.git) : This repository contains rendered images of my Blender projects in `.png` or `.jpeg` formats and abstract & loopable animations in `.mp4` format created either using the Eevee or Cycles render engines.
+  
+- [**Blender Files**](https://github.com/karthi1048/Blender-files.git) : Access the original `.blend` project files, available for download, so you can explore and modify them yourself.
