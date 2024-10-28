@@ -11,8 +11,8 @@ Feel free to explore the links below to dive into different aspects of my projec
 ```mermaid
 
 flowchart TD
-    Blender-Works --> Blender-Files
-    Blender-Works --> Blender-Renders
-    Blender-Files --> Files
-    Blender-Renders --> Video
-    Blender-Renders --> Images
+    Blender-Works --> |"directs to"| Blender-Files
+    Blender-Works --> |"directs to"| Blender-Renders
+    Blender-Files --> |"holds"| Files(Files)
+    Blender-Renders --> |"mp4"| Videos(Videos)
+    Blender-Renders --> |"jpg or png"| Images(Images)
